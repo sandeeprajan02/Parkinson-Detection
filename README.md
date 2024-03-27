@@ -1,2 +1,3 @@
 # Parkinson-Detection
-Early detection of parkinson disease with enhanced accuracy
+Early identification of Parkinson's disease with enhanced precision and minimal integration complexities.
+
